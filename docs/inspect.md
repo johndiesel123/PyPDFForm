@@ -1,4 +1,4 @@
-# Inspect a PDF form
+# Inspect a PDF form 
 
 After a PDF form is prepared, PyPDFForm can be used to inspect names of all its widgets so that the data 
 that's needed to fill it can be determined. There are several different methods this can be done with and feel free 
